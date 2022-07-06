@@ -1,0 +1,14 @@
+{
+  "name": "chat-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "server": "node src/server.js",
+    "client": "node src/client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
